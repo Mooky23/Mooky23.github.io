@@ -54,11 +54,11 @@
 ```
 # Site settings
 title: BY Blog                    # 你的博客网站标题
-SEOTitle: 柏荧的博客 | BY Blog		# SEO 标题
+SEOTitle: 穆柯的博客 | Mooky23 Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: qiubaiying     # 你的github账号
+github_username: Mooky23# 你的github账号
 jianshu_username: e71990ada2fd  # 你的简书ID。
 
 # Build settings
